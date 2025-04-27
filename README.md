@@ -1,1 +1,3 @@
 # EarthCARE_Tools
+
+EarthCAREの標準プロダクトファイルを読み込み、地図投影してGeoTiffファイルで出力するプログラムです。
